@@ -1,46 +1,68 @@
-<div align="center">
-  <img widht=100% height=100% bottom=50px src="https://github.com/user-attachments/assets/22a052cd-b4d3-47d1-962d-ac88b4e28c8f"  />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF7&height=120&section=header&text=IMBIEL-DEV&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-###
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22a052cd-b4d3-47d1-962d-ac88b4e28c8f" alt="Banner Imbiel-Dev" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imbiel-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imbiel-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">👋 Olá, eu sou o Gabriel</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Criador+de+projetos+digitais;Explorando+Web%2C+Games+e+Design;Transformando+ideias+em+experi%C3%AAncias" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-</div>
+---
 
-###
+## 🧠 Sobre mim
 
-<div align="left">
-  <a href="https://www.instagram.com/im._.biel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+Sou um desenvolvedor brasileiro em constante evolução, apaixonado por tecnologia, criação de interfaces, jogos e experiências digitais.
+
+Gosto de transformar ideias em projetos reais, misturando programação, design, criatividade e visão de produto. Atualmente estou focado em desenvolvimento web, projetos autorais e aplicações com identidade visual forte.
+
+---
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBldWtpNmV4c3ZyMG12bHRtYmc0dHRwOW40dWlybmpvcmcwcjltYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUtzHmhtRRUjZg1zjB/giphy.gif" width="450px" alt="Rick and Morty Forever" />
+</p>
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,godot,supabase,vercel,github,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imbiel-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbiel-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imbiel-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Minha jornada de commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imbiel-dev/imbiel-dev/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.instagram.com/oficial.gabz">
+    <img src="https://img.shields.io/badge/Instagram-7B2FF7?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/imbiel-dev/imbiel-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/imbiel-dev/count.svg?"  />
-</div>
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF7&height=100&section=footer"/>
