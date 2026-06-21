@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF7&height=120&section=header&text=GABZLABS&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/175a60ea-d0ff-4839-9389-d770e76b0621" alt="Banner Gabz Labs" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/d1eb8e55-c804-42ea-9ab4-f6bc997ec23f" alt="Banner Gabz Labs" width="100%"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Gabriel</h1>
