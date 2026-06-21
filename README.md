@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF7&height=120&section=header&text=IMBIEL-DEV&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FF7&height=120&section=header&text=GABZLABS&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/22a052cd-b4d3-47d1-962d-ac88b4e28c8f" alt="Banner Imbiel-Dev" width="100%" />
+  <img src="https://github.com/user-attachments/assets/175a60ea-d0ff-4839-9389-d770e76b0621" alt="Banner Gabz Labs" width="100%"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Gabriel</h1>
@@ -37,7 +37,7 @@ Gosto de transformar ideias em projetos reais, misturando programação, design,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imbiel-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gabzlabs&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ Gosto de transformar ideias em projetos reais, misturando programação, design,
 ## 🐍 Minha jornada de commits
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imbiel-dev/imbiel-dev/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gabzlabs/gabzlabs/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
