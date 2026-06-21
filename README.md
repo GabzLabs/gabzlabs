@@ -53,7 +53,7 @@ Gosto de transformar ideias em projetos reais, misturando programação, design,
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.instagram.com/oficial.gabz">
+  <a href="https://www.instagram.com/gabzlabs">
     <img src="https://img.shields.io/badge/Instagram-7B2FF7?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
